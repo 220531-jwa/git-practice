@@ -1,2 +1,0 @@
-I've added login feature.
-found and fixed bug with login
